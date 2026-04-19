@@ -62,27 +62,8 @@ Final Answer
 
 # 🔁 Full Flow Diagram
 
-PDF A          PDF B  
-↓              ↓  
-Chunking      Chunking  
-↓              ↓  
-Embeddings    Embeddings  
-↓              ↓  
-Chroma DB (paper_a, paper_b)  
-↓  
-Query  
-↓  
-Query Embedding  
-↓  
-Similarity Search (Top 10)  
-↓  
-Reranking (Top 5)  
-↓  
-Context Formation  
-↓  
-LLM (llama3 via Ollama)  
-↓  
-Final Answer  
+<img width="1440" height="1254" alt="image" src="https://github.com/user-attachments/assets/5770f5a5-e72b-4b1d-8197-fd16b507fb28" />
+  
 
 ---
 
